@@ -1,1 +1,5 @@
-# beautiful-tables
+# beautiful-tables![bootstrap table](https://user-images.githubusercontent.com/90281067/145660394-4b613610-4277-446a-b1d6-fe89cf2da98b.JPG)
+![basic table](https://user-images.githubusercontent.com/90281067/145660397-854caa60-6c44-43e8-8efd-adea787f1c69.JPG)
+![ajax](https://user-images.githubusercontent.com/90281067/145660399-ab794154-0698-471e-b732-f241f085ac3b.JPG)
+![server-driven](https://user-images.githubusercontent.com/90281067/145660406-a41e003a-75b4-4b5a-8d8a-e69495c4a867.JPG)
+![bootstrap table](https://user-images.githubusercontent.com/90281067/145660410-551e82b1-7fb2-4492-a61f-5551c5231269.JPG)
